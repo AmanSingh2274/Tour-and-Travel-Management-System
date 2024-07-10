@@ -1,8 +1,9 @@
 # Tour-and-Travel-Management-System (by AmanSingh2274)
-Overview :-----------
+## Overview :-----------
+
 This project is a Tour and Travel Management System built using C++. It provides functionalities for managing customers, bookings, cabs, and billing. The system aims to streamline the operations of a tour and travel business by integrating these core components into a unified application.
 
-### Features:-------------
+## Features:-------------
 Customer Management
 Add, update, and display customer details.
 Booking Management
@@ -13,11 +14,15 @@ Billing
 Calculate charges and generate bills for services provided.
 
 
-### Class Structure:-----------
+## Class Structure:-----------
 Customer: Manages customer details such as ID, name, phone number, and email.
+
 Booking: Handles booking details including booking ID, customer, travel dates, destination, and status.
+
 Cab: Manages cab details including cab ID, driver information, availability status, and assigned bookings.
+
 Bill: Calculates charges and generates bills for services provided, such as travel fare, cab charges, and additional services.
+
 TourAndTravelManagementSystem: Integrates all the above functionalities, providing a unified interface for managing customers, bookings, cabs, and billing.
 
 
