@@ -486,5 +486,5 @@ int main()
 }
 
 /*
-Used IDE: CodeBlocks
+Used IDE: CodeBlocks to compile code
 */
