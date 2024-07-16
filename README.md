@@ -3,7 +3,7 @@
 
 This project is a Tour and Travel Management System built using C++. It provides functionalities for managing customers, bookings, cabs, and billing. The system aims to streamline the operations of a tour and travel business by integrating these core components into a unified application.
 
-## Features:-------------
+## Features:------------
 Customer Management
 Add, update, and display customer details.
 Booking Management
