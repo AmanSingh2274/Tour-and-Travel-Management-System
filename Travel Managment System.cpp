@@ -9,7 +9,7 @@ void menu();//  main menu function prototype
 class ManageMenu
 {
 protected:
-    string userName; //hide admin name
+    string userName; // hide admin name
 
 public:
 
