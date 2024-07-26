@@ -4,7 +4,7 @@
 #include<windows.h>
 using namespace std;
 
-void menu();// main menu function prototype
+void menu();//main menu function prototype
 
 class ManageMenu
 {
